@@ -1,5 +1,5 @@
 var mongoose = require( 'mongoose' );
-var dbURI = 'mongodb+srv://mekan32:cNgQ5LdnZPpwkqU@mekan32.gqfii.mongodb.net/mekan32?retryWrites=true&w=majority';
+var dbURI = 'mongodb+srv://mekan32:eren123U@mekan32.gqfii.mongodb.net/mekan32?retryWrites=true&w=majority';
 mongoose.connect(dbURI, {useNewUrlParser: true});
 
 //ba�land���nda konsola ba�lant� bilgilerini yazd�r�r.
